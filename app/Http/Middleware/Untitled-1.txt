@@ -1,0 +1,55 @@
+<table>
+<tbody
+<tr><td>2200590055729682</td><td>DEWA BAGUS ANANTA</td><td>l</td><td>Lolos</td></tr>
+<tr><td>2200502000502110</td><td>PUTRI KONIK CHANIFA</td><td>TL</td><td>Tidak Lolos</td></tr>
+<tr><td>2200502001500072</td><td>BAGUS TEGAR BAGASKARA</td><td>TL</td><td>Tidak Lolos</td></tr>
+<tr><td>2200502005802676</td><td>Tegar Putra Pratama</td><td>l</td><td>Lolos</td></tr>
+<tr><td>2200502002702676</td><td>MELVIA RIFKYKASARI</td><td>TL</td><td>Tidak Lolos</td></tr>
+<tr><td>2200502050100418</td><td>MUCHAMAD ASAFIN SALAFI</td><td>TL</td><td>Tidak Lolos</td></tr>
+<tr><td>2200502009500232</td><td>Ranee Tuta</td><td>L</td><td>Lolos</td></tr>
+<tr><td>2200502008100472</td><td>Novi Intan Safitri</td><td>L</td><td>Lolos</td></tr>
+<tr><td>2200527008400116</td><td>DYOLLA VITARA LENGGANI</td><td>L</td><td>Lolos</td></tr>
+<tr><td>2200527068600214</td><td>SYAKIRA AQILA AMELIA</td><td></td><td></td></tr>
+<tr><td>2200502004500569</td><td>TRIO DAFIT SATRIO</td><td>TL</td><td>Tidak Lolos</td></tr>
+<tr><td>2200502009700614</td><td>PUTRI INDRA DEWI</td><td>L</td><td>Lolos</td></tr>
+<tr><td>2200502001600098</td><td>BAYU PUTRA INDRA SAYEKTI</td><td>L</td><td>Lolos</td></tr>
+<tr><td>2200502001600747</td><td>AYUNINGTYAS PERMATASARI</td><td>L</td><td>Lolos</td></tr>
+<tr><td>2200502007000098</td><td>Ega Virman Romadoni</td><td>L</td><td>Lolos</td></tr>
+<tr><td>2200527036700898</td><td>IMELDA DINA PRATIWI</td><td></td><td></td></tr>
+<tr><td>2200502002500125</td><td>MUHAMMAD FAJAR SAPUTRA</td><td>L</td><td>Lolos</td></tr>
+<tr><td>2200502000100089</td><td>FAIRUZ RAMADHINA NURSAL</td><td>L</td><td>Lolos</td></tr>
+<tr><td>2200527005101316</td><td>ALIFIA EKA PUTRIADI</td><td>TL</td><td>Tidak Lolos</td></tr>
+<tr><td>2200502000800383</td><td>ANTONY MAVATIKA RIZQI DAVITTO</td><td>TL</td><td>Tidak Lolos</td></tr>
+<tr><td>2200502051000054</td><td>ANISA INEKE OKTAVIANA</td><td>L</td><td>Lolos</td></tr>
+<tr><td>2200534004001707</td><td>GUSTIADI PANGESTU</td><td>L</td><td>Lolos</td></tr>
+<tr><td>2200502004200605</td><td>PUTRI RACHMA WARDANI</td><td>TL</td><td>Tidak Lolos</td></tr>
+<tr><td>2200527068600214</td><td>SYAKIRA AQILA AMELIA</td><td>L</td><td>Lolos</td></tr>
+<tr><td>B200502000500196</td><td>Muchamad Irfan Arif</td><td>L</td><td>Lolos</td></tr>
+<tr><td>2200502002301752</td><td>NOVEL OCTAVIO RAMADHANI</td><td>L</td><td>Lolos</td></tr>
+<tr><td>2200502000100712</td><td>FALLENZA ALIEF</td><td>L</td><td>Lolos</td></tr>
+<tr><td>2200527068600214</td><td>SYAKIRA AQILA AMELIA</td><td>L</td><td>Lolos</td></tr>
+<tr><td>2200502002702676</td><td>MELVIA RIFKYKASARI</td><td>TL</td><td>Tidak Lolos</td></tr>
+<tr><td>2200527008504223</td><td>RIZZAL MISBACHUL 'ARIF ASSAKHAWAH</td><td>L</td><td>Lolos</td></tr>
+<tr><td>2200502004601325</td><td>CHAMDI UJEEB MUKTI</td><td>L</td><td>Lolos</td></tr>
+<tr><td>2200509050201174</td><td>KEN AYU THIRZA AURIST MUVERTA</td><td>L</td><td>Lolos</td></tr>
+<tr><td>2200502001602454</td><td>Fazwan Firdaus</td><td>L</td><td>Lolos</td></tr>
+<tr><td>2200502006402178</td><td>Mohammad Kholifah Ikhsan</td><td>TL</td><td>Tidak Lolos</td></tr>
+<tr><td>2200502005801316</td><td>MARETA DIAH MAHARANI</td><td></td><td></td></tr>
+<tr><td>2200502004600569</td><td>RIZQIYAH NURRAHMA</td><td>L</td><td>Lolos</td></tr>
+<tr><td>2200502050600658</td><td>FRISKA YULIANA DEWI</td><td>L</td><td>Lolos</td></tr>
+<tr><td>2200502004502054</td><td>NAYLA MAZAYA</td><td>TL</td><td>Tidak Lolos</td></tr>
+<tr><td>2200502050201316</td><td>AHMAD MUCHDHOFAR</td><td></td><td></td></tr>
+<tr><td>2200502005800383</td><td>Eka Dwi Cahyo</td><td>TL</td><td>Tidak Lolos</td></tr>
+<tr><td>2200502006400498</td><td>KEISA GAPAI SAUWAAHA</td><td>TL</td><td>Tidak Lolos</td></tr>
+<tr><td>2200527002000392</td><td>Dita Tri Utami</td><td>TL</td><td>Tidak Lolos</td></tr>
+<tr><td>2200502001300214</td><td>ZEFANYA VANTINE BR SEMBIRING</td><td>TL</td><td>Tidak Lolos</td></tr>
+<tr><td>2200502051100089</td><td>ARDITO ZIDDAN MAULANA</td><td>TL</td><td>Tidak Lolos</td></tr>
+<tr><td>2200502004602587</td><td>mochammad rizal alfiansyah</td><td>L</td><td>Lolos</td></tr>
+<tr><td>2200502005201245</td><td>VYOLA PERMATASARI</td><td>L</td><td>Lolos</td></tr>
+<tr><td>2200502003900658</td><td>Cheryl Filla Amanda</td><td>TL</td><td>Tidak Lolos</td></tr>
+<tr><td>2200502001400747</td><td>EDGAR RAMADHANI OCTA RINJANI</td><td>TL</td><td>Tidak Lolos</td></tr>
+<tr><td></td><td></td><td></td><td></td></tr>
+<tr><td>2200502006400729</td><td>ALYA SAFFA SALSABILA</td><td>L</td><td>Lolos</td></tr>
+<tr><td>2200527031602552</td><td>Dava Ade Prawira</td><td></td><td></td></tr>
+</tbody>
+</table>
